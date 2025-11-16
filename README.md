@@ -71,9 +71,10 @@ Uncomment last 2 lines of Code in the file Gesture_Controller.py
 
 | Name | Email Id    | GitHub                ||
 | :-------- | :------- | :------------------------- |--------|
-| Basava Darsshan BS | [Mail](basavadarshan07@gmail.com) | [GitHub](https://github.com/Basava-Darshan-BS)  |
+| Basava Darshan BS | [Mail](basavadarshan07@gmail.com) | [GitHub](https://github.com/Basava-Darshan-BS)  |
 |  | [Mail]() | [GitHub]()|  
 |  | [Mail]() | [GitHub]()|
+
 
 
 
